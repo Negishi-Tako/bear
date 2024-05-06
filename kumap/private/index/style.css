@@ -1,0 +1,31 @@
+#kumap{
+    font-size:xx-large;
+    font-weight: 700;
+}
+body{
+    background-color:rgb(44, 40, 40);
+    color:white;
+}
+#application{
+    max-width: 95%;
+    height: 600px;
+    margin:  0 auto;  
+    border: 1px solid #000;
+}
+#top{
+    font-size:larger;
+}
+#bar{
+    display: flex;
+    padding: 10px;
+}
+#selecttime{
+    font-weight: 500;
+    font-size: larger;
+}
+#outputtime{
+    font-size: large;
+}
+#register{
+    padding-left:10px;
+}

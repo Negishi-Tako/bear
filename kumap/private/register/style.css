@@ -1,0 +1,32 @@
+#kumap{
+    font-size:xx-large;
+    font-weight: 700;
+}
+body{
+    background-color:rgb(44, 40, 40);
+    color:white;
+    width: 95%;
+    margin:  0 auto;
+}
+#ex{
+    padding: 10px;
+    font-size: larger;
+}
+label{
+    font-size: larger;
+}
+#dateT{
+    font-size: large;
+}
+#kumaposition{
+    height:400px;
+    padding: 5px;
+}
+#regibutton{
+    border-radius:10px;
+    width:15%;
+    height: 40px;
+}
+#submitbutton{
+    padding-top: 5px;
+}

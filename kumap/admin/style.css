@@ -1,0 +1,32 @@
+#kumap{
+    font-size:xx-large;
+    font-weight: 700;
+}
+body{
+    background-color:rgb(44, 40, 40);
+    color:white;
+    width: 95%;
+
+}
+#area{
+    color:rgb(44, 40, 40);
+    width: 30%;
+    text-align: center;
+    margin:  auto auto;
+	height:100px;	
+	position: absolute;	
+	top:0;
+	bottom:0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    padding-top: 70px;
+    padding-bottom: 140px;
+    border: 1px solid white;
+}
+
+#loginbutton{
+    color: white;
+    border: 3px solid white;
+    background-color: rgb(44, 40, 40);
+}

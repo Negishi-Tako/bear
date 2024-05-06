@@ -1,0 +1,53 @@
+#kumap{
+    font-size:xx-large;
+    font-weight: 700;
+}
+#akumap{
+        text-aligin:center;
+        font-size:larger;
+}
+body{
+    background-color:rgb(44, 40, 40);
+    color:white;
+    font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
+    appearance: none;
+    -webkit-appearance: none;
+}
+#ex{
+    padding: 10px;
+    font-size: larger;
+}
+label{
+    font-size: larger;
+}
+#dateT{
+    font-size: large;
+}
+#kumaposition{
+    height:60vh;
+    padding: 10px;
+}
+.button {
+  font-size:13px;
+  font-weight:bold;
+  width:100pz;
+  display       : inline-block;
+  font-size     : 18pt;        /* 文字サイズ */
+  text-align    : center;      /* 文字位置   */
+  cursor        : pointer;     /* カーソル   */
+  padding       : 12px 24px;   /* 余白       */
+  background    : #2c2828;     /* 背景色     */
+  color         : #ffffff;     /* 文字色     */
+  line-height   : 1em;         /* 1行の高さ  */
+  transition    : .3s;         /* なめらか変化 */
+  border        : 2px solid white;    /* 枠の指定 */
+}
+.button:hover {
+  color         : #2c2828;     /* 背景色     */
+  background    : #ffffff;     /* 文字色     */
+}

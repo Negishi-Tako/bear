@@ -1,0 +1,53 @@
+#kumap{
+    font-size:xx-large;
+    font-weight: 700;
+}
+#akumap{
+	text-aligin:center;
+	font-size:larger;
+}
+body{
+    background-color:rgb(44, 40, 40);
+    color:white;
+    font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
+}
+#application{
+    height:80vh;
+    width:auto;
+}
+#top{
+    font-size:larger;
+}
+#bar{
+    display: flex;
+    padding: 10px;
+}
+#outputtime{
+    font-size: large;
+}
+#register{
+    padding-left:10px;
+}
+a.btn_01 {
+	display: block;
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: none;
+	width: 120px;
+	height: 30px;
+	margin: auto;
+	padding: 1rem 4rem;
+	font-weight: bold;
+	border: 2px solid white;
+	color: white;
+	transition: 0.5s;
+}
+a.btn_01:hover {
+	color: rgb(44, 40, 40);
+	background: white;
+}
